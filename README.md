@@ -21,6 +21,7 @@ Apache
 
 # Description
 This day planner shows past, current and future day planning times indicated by grey, red, and green respectively. Notes may be saved to localstorage.
+![Live Deployed](dayPlannerSnip.png)
 
 # Contributors
  The following contributed on this assignment: Tutor
